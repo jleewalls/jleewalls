@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jleewalls
 - 👀 I’m interested in ...NFTs
 - 🌱 I’m currently learning ...solidity
-- 💞️ I’m looking to collaborate on ...music
+- 💞️ I’m looking to collaborate on ...music/ fashion/ gmaing/ NFTs
 - 📫 How to reach me ...@jleewalls1 on Twitter
 
 <!---
